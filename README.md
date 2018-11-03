@@ -23,7 +23,7 @@ A C# tool to decrypt information to the process memory only. A major part of my 
 
 I am currently in the process of building a fully open source password manager in C# as a personal project. I spent a little bit figuring out the decryption to memory and figured I would share the code incase someone else has the same issue/idea as me. The code is not the cleanest and can be fixed up in a few spots, but it is functional and works as expected in it's current state.
 
-This project will take a text document and encrypt it with AES and a password of your choosing as the salt. After that, you can decrypt the item without actually impacting the physical file. This allows for the storage of sensitive data in a moderatly secure way as the raw data will not sit on the computer but is still accessable through hooking the process memory.
+This project will take a text document and encrypt it with AES and a password of your choosing as the salt. After that, you can decrypt the item without actually impacting the physical file. This allows for the storage of sensitive data in a moderatly secure way as the raw data will not sit on the computer.
 
 ## Testing Screenshots
 
