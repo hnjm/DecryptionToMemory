@@ -4,6 +4,7 @@ A C# tool to decrypt information to the process memory only. A major part of my 
 ## Contents
 - Information
     * [Purpose](#purpose)
+    * [Testing Screenshots](#testing-screenshots)
 
 - Setup
     * [Test Instructions](#test-instructions)
