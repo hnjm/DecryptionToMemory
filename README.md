@@ -25,7 +25,7 @@ File after encryption (Will not change from this)
 <img src="https://i.imgur.com/1zfcGYN.png">
 
 Decrypted data available in the executable
-<img src="https://i.imgur.com/zUQwKFf.png">
+<img src="https://i.imgur.com/66Cmjmp.png">
 
 # Setup
 
