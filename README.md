@@ -19,10 +19,10 @@ This project will take a text document and encrypt it with AES and a password of
 ## Testing Screenshots
 
 File before encryption
-<img src="https://i.imgur.com/GcLpZXP.png">
+<img src="https://i.imgur.com/GcLpZXP.png" height="386">
 
 File after encryption (Will not change from this)
-<img src="https://i.imgur.com/1zfcGYN.png">
+<img src="https://i.imgur.com/1zfcGYN.png" height="386">
 
 Decrypted data available in the executable
 <img src="https://i.imgur.com/66Cmjmp.png">
