@@ -18,7 +18,7 @@ This project will take a text document and encrypt it with AES and a password of
 
 ## Testing Screenshots
 
-File before encryption
+The data will will be working with for testing
 <img src="https://i.imgur.com/GcLpZXP.png" height="386">
 
 File after encryption (Will not change from this)
