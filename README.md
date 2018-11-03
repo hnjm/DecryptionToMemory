@@ -19,7 +19,7 @@ This project will take a text document and encrypt it with AES and a password of
 ## Testing Screenshots
 
 File before encryption
-<img src="https://i.imgur.com/GcLpZXP.png" width="200" height="auto">
+<img src="https://i.imgur.com/GcLpZXP.png" width="400" height="auto">
 
 
 # Setup
