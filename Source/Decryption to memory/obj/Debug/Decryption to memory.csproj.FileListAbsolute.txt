@@ -1,0 +1,22 @@
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\bin\Debug\Decryption to memory.exe.config
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\bin\Debug\Decryption to memory.exe
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\bin\Debug\Decryption to memory.pdb
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csprojAssemblyReference.cache
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption_to_memory.Form1.resources
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption_to_memory.Properties.Resources.resources
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csproj.GenerateResource.cache
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csproj.CoreCompileInputs.cache
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.exe
+C:\Users\784209\source\repos\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.pdb
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\bin\Debug\Decryption to memory.exe.config
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\bin\Debug\Decryption to memory.exe
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\bin\Debug\Decryption to memory.pdb
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\bin\Debug\MaterialSkin.dll
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csprojResolveAssemblyReference.cache
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption_to_memory.Form1.resources
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption_to_memory.Properties.Resources.resources
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csproj.GenerateResource.cache
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csproj.CoreCompileInputs.cache
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.csproj.CopyComplete
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.exe
+C:\Users\prefo\Desktop\Decryption to memory\Decryption to memory\obj\Debug\Decryption to memory.pdb
