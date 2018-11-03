@@ -8,6 +8,7 @@ A C# tool to decrypt information to the process memory only. A major part of my 
 
 - Setup
     * [Test Instructions](#test-instructions)
+    * [Must Change Information](#must-change-information)
     
 # Information
 
@@ -48,3 +49,21 @@ The byte array will need to be changed to ensure the security of the program. Yo
 On line 27 you will see ff = "bdlog.txt";
 
 This is the target file path, feel free to change this to whatever you like. I used the relative path to the executable to keep it simple for later modification
+
+# Bugs/Unplanned Features
+
+## Unicode VS. UTF8
+
+Right now, this is built to only work with Unicode type files. If you wish to change this, head to line 159 where you will see richTextBox1.Text = System.Text.Encoding.Unicode.GetString(bytesDecrypted, 0, bytesDecrypted.Length);
+
+Simply change Unicode to the type you wish to use and try to decrypt the file again.
+
+## Decryption Problems
+
+I have noticed that sometimes if a file is too small or too large, it will not properly decrypt. I am unsure of why this happens and am investigating it. If you know a fix, feel free to open a pull request and I will evaluate it!
+
+# Conclusions
+
+## Thank you!
+
+This was a few hour project, where most of the time was spent troubleshooting decryption not being completed successfully. As I said, this will be used in an open source password manager tool. If you see any security flaws with this, please let me know so I can be sure not to include them into my future project
