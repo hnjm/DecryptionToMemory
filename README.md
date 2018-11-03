@@ -9,6 +9,13 @@ A C# tool to decrypt information to the process memory only. A major part of my 
 - Setup
     * [Test Instructions](#test-instructions)
     * [Must Change Information](#must-change-information)
+
+- Bugs/Unplanned Features
+   * [Unicode VS. UTF8](#unicode-vs-utf8)
+   * [Decryption Problems](#decryption-problems)
+   
+- Conclusions
+   * [Thank you!](#thank-you)
     
 # Information
 
