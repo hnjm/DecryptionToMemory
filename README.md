@@ -38,3 +38,13 @@ Once that has been completed, open up the Decryption to memory.exe and encrypt t
 Once the encryption is complete (Should be instant) inspect the documents content in the text editor of your choice.
 
 Finally, head back into the Decryption to memory.exe, enter the password and decrypt the file. You will see the plain text of the document inside of the executable BUT the file is never modified.
+
+## Must Change Information
+
+On line 78 and 108, you will see byte[] saltBytes = new byte[] { 1, 2, 3, 4, 5, 6, 7, 8 };
+
+The byte array will need to be changed to ensure the security of the program. You can set any numbers you like, I am unsure of the range myself, but try to keep the value under 100 (Not tested). The values will need to be kept the same or it will cause issues later on.
+
+On line 27 you will see ff = "bdlog.txt";
+
+This is the target file path, feel free to change this to whatever you like. I used the relative path to the executable to keep it simple for later modification
